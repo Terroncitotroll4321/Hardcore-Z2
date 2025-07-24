@@ -1,0 +1,33 @@
+{
+  "bunker_down:first_joined_world": {
+    "criteria": {
+      "first_joined_world": "2025-07-24 07:56:24 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-07-24 07:56:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "orchard": "2025-07-24 07:56:25 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "orchard": "2025-07-24 07:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:ocean": "2025-07-24 07:56:26 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
