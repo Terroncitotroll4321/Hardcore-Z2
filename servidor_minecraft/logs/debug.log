@@ -12818,3 +12818,389 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jul2025 05:43:53.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
 [25Jul2025 05:43:57.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Teleported TerroncitoTroll to 389.500000, 63.500000, 1147.500000]
 [25Jul2025 05:43:59.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ya albv
+[25Jul2025 05:44:39.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> las voces dicen q me lleves piedra
+[25Jul2025 05:44:53.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> yo no me drogo
+[25Jul2025 05:45:00.043] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=405, y=10, z=1088} (Chunk: [25, 68]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 05:45:01.312] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:45:06.272] [Server thread/INFO] [Scaling Health/]: Blight Megapiranha has died
+[25Jul2025 05:45:31.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> traeme adoquin perro
+[25Jul2025 05:45:37.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> voy
+[25Jul2025 05:45:38.481] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=405, y=-43, z=987} (Chunk: [25, 61]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 05:45:50.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> tdejar recoperarme
+[25Jul2025 05:45:50.725] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=401, y=-47, z=929} (Chunk: [25, 58]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 05:45:54.263] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:45:56.539] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=406, y=-46, z=927} (Chunk: [25, 57]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 05:45:57.211] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:45:57.211] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:45:57.211] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:45:58.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:45:58.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:46:28.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> we no ahce efecto la corona
+[25Jul2025 05:46:33.461] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:46:33.461] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:46:43.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pq lo dices
+[25Jul2025 05:46:47.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no se esta desgastando
+[25Jul2025 05:46:57.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 05:46:57.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 05:47:06.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:47:10.109] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:47:10.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:47:10.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:47:20.313] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:47:20.313] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:47:20.313] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:47:20.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:47:20.863] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:47:22.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> talvez pq ya pasaron muchos dias
+[25Jul2025 05:47:27.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> alv 39
+[25Jul2025 05:47:28.381] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=340, y=-38, z=796} (Chunk: [21, 49]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 05:47:31.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> y
+[25Jul2025 05:47:34.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> eso q
+[25Jul2025 05:47:40.580] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=307, y=-2, z=769} (Chunk: [19, 48]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 05:47:47.662] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:47:51.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q es mas dificil recuperar cordura
+[25Jul2025 05:47:51.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:47:51.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:47:56.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a
+[25Jul2025 05:48:31.703] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[25Jul2025 05:48:31.703] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[25Jul2025 05:48:32.726] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:48:47.483] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[25Jul2025 05:48:47.483] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[25Jul2025 05:49:27.410] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:49:27.411] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:49:31.041] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:49:43.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> vrga se baja muy rapido ahora
+[25Jul2025 05:49:53.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a mi no se me baja
+[25Jul2025 05:50:16.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a mi si un poco de lluvia y sas
+[25Jul2025 05:50:18.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> vete akv
+[25Jul2025 05:50:28.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me pego una esquizo
+[25Jul2025 05:50:32.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> y me bajo casi toda la vida
+[25Jul2025 05:50:58.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> puta corona no hace efecto
+[25Jul2025 05:51:04.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> me hace falta dormir
+[25Jul2025 05:51:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ya es de noche?
+[25Jul2025 05:51:46.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> smn
+[25Jul2025 05:51:57.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 05:51:57.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 05:52:09.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> esperame
+[25Jul2025 05:52:43.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya vuelvo
+[25Jul2025 05:52:48.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> oko
+[25Jul2025 05:53:39.263] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:53:47.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> zzzz
+[25Jul2025 05:54:14.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/1776607, l='ServerLevel[world]', x=262.50, y=64.00, z=550.30] died, message: 'Possessed Villager was slain by Zombie'
+[25Jul2025 05:54:19.713] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:54:19.713] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:54:28.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[25Jul2025 05:54:29.836] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 05:54:29.836] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jul2025 05:54:29.995] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[25Jul2025 05:54:29.995] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[25Jul2025 05:54:42.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Teleported TerroncitoTroll to 252.500000, 61.500000, 572.500000]
+[25Jul2025 05:54:54.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[25Jul2025 05:54:55.897] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 05:54:55.897] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jul2025 05:54:56.054] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[25Jul2025 05:54:56.054] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[25Jul2025 05:54:58.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Teleported TerroncitoTroll to 252.500000, 61.500000, 572.500000]
+[25Jul2025 05:55:01.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX lost connection: Disconnected
+[25Jul2025 05:55:01.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX left the game
+[25Jul2025 05:55:01.688] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82696d49-acbf-46fc-9653-93cc5b790916 was unloaded
+[25Jul2025 05:55:11.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1792002, l='ServerLevel[world]', x=308.98, y=73.00, z=605.63] died, message: 'Villager was slain by Shambler'
+[25Jul2025 05:56:57.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 05:56:57.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 05:58:06.225] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=253, y=-13, z=497} (Chunk: [15, 31]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 05:58:17.668] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=253, y=-13, z=497} (Chunk: [15, 31]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 05:58:18.776] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=253, y=-13, z=497} (Chunk: [15, 31]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 05:58:38.869] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=253, y=-13, z=497} (Chunk: [15, 31]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 05:59:19.909] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 06:00:20.057] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 06:01:28.918] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=208, y=-28, z=520} (Chunk: [13, 32]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:01:57.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Gave 1 [Purified Water Canteen] to TerroncitoTroll]
+[25Jul2025 06:01:57.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 06:01:57.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 06:02:18.432] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=120, y=-20, z=514} (Chunk: [7, 32]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:02:35.971] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=71, y=13, z=449} (Chunk: [4, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:02:42.667] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:02:56.119] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=34, y=13, z=452} (Chunk: [2, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:03:01.927] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=27, y=5, z=452} (Chunk: [1, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:03:05.217] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=27, y=5, z=452} (Chunk: [1, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:03:07.178] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 39 messages to dispatch.
+[25Jul2025 06:03:07.706] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KekinX is 82696d49-acbf-46fc-9653-93cc5b790916
+[25Jul2025 06:03:07.718] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'cgm:network_gun_manager' to 'framework:handshake' sequence 0
+[25Jul2025 06:03:07.764] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'cgm:custom_gun_manager' to 'framework:handshake' sequence 1
+[25Jul2025 06:03:07.814] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 2
+[25Jul2025 06:03:07.849] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[25Jul2025 06:03:07.849] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[25Jul2025 06:03:07.849] [Netty Epoll Server IO #1/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:07.868] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 3
+[25Jul2025 06:03:07.909] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 1
+[25Jul2025 06:03:07.909] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[25Jul2025 06:03:07.909] [Netty Epoll Server IO #1/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:07.916] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 4
+[25Jul2025 06:03:07.966] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 5
+[25Jul2025 06:03:07.976] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 2
+[25Jul2025 06:03:07.977] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[25Jul2025 06:03:07.977] [Netty Epoll Server IO #1/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.022] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 6
+[25Jul2025 06:03:08.066] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 7
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [parcool_compat_addon, geckolib, sophisticatedcore, underground_bunkers, darkness, enhancedvisuals, placebo, modernfix, zombieawareness, mixinextras, zombieoverlords, horrrs_pvz, sophisticatedbackpacks, extra_zombie_drops, cave_dweller, minetraps, cloth_config, sound_physics_remastered, sodiumdynamiclights, embeddium, rubidium, sanitydim, farmersdelight, entity_model_features, entity_texture_features, deadland, chunky, curios, underground_village, oculus, lostcities, fastquit, cfm, architectury, aiimprovements, cupboard, transition, refurbished_furniture, itemphysic, framework, dragnvehicles, scalinghealth, playerrevive, fastload, mutantmonsters, protectmobsfromdaylight, fastboot, thalassophobia, jei, cgm, particlerain, trender, fastsuite, fastasyncworldsave, berezka_api, glitchcore, sereneseasons, badmobs, memoryleakfix, puzzlesaccessapi, forge, polytone, minecraft, simply_traps, berezkas_save_place, radiotowers, distanthorizons, terrablender, biomesoplenty, moonlight, extragore, fabric_api_base, silentlib, shouldersurfing, creativecore, watching, bunker_down, smoothboot, nethersdelight, e4mc_minecraft, kotlinforforge, true_herobrine, notenoughanimations, xaerominimap, gravestone, parcool, zeta, quark, toughasnails, entityculling, spawnanimations, roamers, immediatelyfast, coroutil, endofherobrine, nobz, appleskin, ferritecore, embeddium_extra, puzzleslib, enhancedcelestials, dataanchor, corgilib]
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'berezkas_save_place:berezkas_save_place' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'parcool:message' : Version test of '3.4.0.5' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cfm:network' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'silentlib:network' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simply_traps:simply_traps' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'extra_zombie_drops:extra_zombie_drops' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cgm:play' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[25Jul2025 06:03:08.077] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horrrs_pvz:horrrs_pvz' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dataanchor:entity_tracked_data' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:ingredient_sync' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dataanchor:level_tracked_data' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mutantmonsters:1' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thalassophobia:thalassophobia' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toughasnails:main_channel' : Version test of '0' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bunker_down:bunker_down' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lostcities:lostcities' : Version test of '1.0' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dataanchor:chunk_tracked_data' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'extragore:main' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'radiotowers:radiotowers' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cave_dweller:main' : Version test of '2' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Version test of '4' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sanitydim:main' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'roamers:roamers' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dataanchor:block_entity_tracked_data' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'scalinghealth:network' : Version test of '3' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deadland:deadland' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zeta:main' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'true_herobrine:true_herobrine' : Version test of '1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.078] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.118] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 8
+[25Jul2025 06:03:08.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[25Jul2025 06:03:08.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.143] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.174] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 9
+[25Jul2025 06:03:08.216] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 10
+[25Jul2025 06:03:08.243] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[25Jul2025 06:03:08.243] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.243] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.243] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[25Jul2025 06:03:08.243] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.243] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.268] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 11
+[25Jul2025 06:03:08.315] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 12
+[25Jul2025 06:03:08.340] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[25Jul2025 06:03:08.340] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.340] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.364] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 13
+[25Jul2025 06:03:08.414] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 14
+[25Jul2025 06:03:08.436] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[25Jul2025 06:03:08.436] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.436] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.467] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 15
+[25Jul2025 06:03:08.517] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 16
+[25Jul2025 06:03:08.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[25Jul2025 06:03:08.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[25Jul2025 06:03:08.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[25Jul2025 06:03:08.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[25Jul2025 06:03:08.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.527] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.568] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 17
+[25Jul2025 06:03:08.587] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[25Jul2025 06:03:08.587] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.587] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.616] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 18
+[25Jul2025 06:03:08.669] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 19
+[25Jul2025 06:03:08.702] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[25Jul2025 06:03:08.702] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.702] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.703] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[25Jul2025 06:03:08.703] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.703] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.722] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 20
+[25Jul2025 06:03:08.767] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[25Jul2025 06:03:08.782] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[25Jul2025 06:03:08.782] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.782] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.782] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[25Jul2025 06:03:08.782] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.782] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.815] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[25Jul2025 06:03:08.867] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[25Jul2025 06:03:08.876] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[25Jul2025 06:03:08.876] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.876] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.876] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[25Jul2025 06:03:08.876] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.876] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:08.916] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config minetraps-server.toml' to 'fml:handshake' sequence 24
+[25Jul2025 06:03:08.968] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config parcool-server.toml' to 'fml:handshake' sequence 25
+[25Jul2025 06:03:08.977] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[25Jul2025 06:03:08.977] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:08.977] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.020] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config scalinghealth-server.toml' to 'fml:handshake' sequence 26
+[25Jul2025 06:03:09.065] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mutantmonsters-server.toml' to 'fml:handshake' sequence 27
+[25Jul2025 06:03:09.081] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[25Jul2025 06:03:09.081] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.082] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.082] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[25Jul2025 06:03:09.082] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.082] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.129] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 28
+[25Jul2025 06:03:09.141] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[25Jul2025 06:03:09.141] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.142] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.142] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[25Jul2025 06:03:09.142] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.142] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.172] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cgm-server.toml' to 'fml:handshake' sequence 29
+[25Jul2025 06:03:09.202] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[25Jul2025 06:03:09.202] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.202] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.217] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 30
+[25Jul2025 06:03:09.266] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 31
+[25Jul2025 06:03:09.278] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[25Jul2025 06:03:09.278] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.278] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.278] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[25Jul2025 06:03:09.278] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.278] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.318] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config endofherobrine-server.toml' to 'fml:handshake' sequence 32
+[25Jul2025 06:03:09.368] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 33
+[25Jul2025 06:03:09.379] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[25Jul2025 06:03:09.379] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.379] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.379] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[25Jul2025 06:03:09.379] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.379] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.414] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config lostcities-server.toml' to 'fml:handshake' sequence 34
+[25Jul2025 06:03:09.464] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config toughasnails-server.toml' to 'fml:handshake' sequence 35
+[25Jul2025 06:03:09.475] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[25Jul2025 06:03:09.475] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.475] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.517] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cave_dweller-server.toml' to 'fml:handshake' sequence 36
+[25Jul2025 06:03:09.565] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 37
+[25Jul2025 06:03:09.616] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 38
+[25Jul2025 06:03:09.620] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[25Jul2025 06:03:09.620] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.620] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.680] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[25Jul2025 06:03:09.680] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.680] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.680] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[25Jul2025 06:03:09.680] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.680] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.741] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[25Jul2025 06:03:09.741] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.741] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.741] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[25Jul2025 06:03:09.741] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[25Jul2025 06:03:09.741] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[25Jul2025 06:03:09.741] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel zeta:main with index 38
+[25Jul2025 06:03:09.741] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type org.violetmoon.zeta.network.message.C2SLoginFlag
+[25Jul2025 06:03:09.765] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[25Jul2025 06:03:09.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KekinX[/127.234.152.166:51885] logged in with entity id 1839529 at (396.5, 66.0, 1691.5)
+[25Jul2025 06:03:09.827] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@74e0dab8 into net.minecraft.network.Connection@17859d54
+[25Jul2025 06:03:09.827] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 212 classes
+[25Jul2025 06:03:09.832] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player KekinX
+[25Jul2025 06:03:09.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX joined the game
+[25Jul2025 06:03:09.841] [Server thread/DEBUG] [Scaling Health/]: Sending login packet to player ServerPlayer['KekinX'/1839529, l='ServerLevel[world]', x=396.50, y=66.00, z=1691.50]
+[25Jul2025 06:03:09.974] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=42, y=-20, z=490} (Chunk: [2, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:03:10.033] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82696d49-acbf-46fc-9653-93cc5b790916 was loaded
+[25Jul2025 06:03:10.034] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [KekinX]
+[25Jul2025 06:03:10.034] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [KekinX]
+[25Jul2025 06:03:16.177] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=34, y=13, z=452} (Chunk: [2, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:03:20.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> cuanto adoquin ocupas
+[25Jul2025 06:03:24.722] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:03:33.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> alchile no se traete unos 6 stacks
+[25Jul2025 06:03:50.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> we
+[25Jul2025 06:03:55.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> si es el bunke militar
+[25Jul2025 06:04:12.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> awebo lootealo
+[25Jul2025 06:04:36.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> wey el tutorial va a 30fps y por error le puse lo de los fps y se miraba fluido XD
+[25Jul2025 06:04:37.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> esta cabron
+[25Jul2025 06:04:52.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> zz
+[25Jul2025 06:05:03.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dale we
+[25Jul2025 06:05:09.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q
+[25Jul2025 06:05:46.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> los zombies militares bajan un vergo
+[25Jul2025 06:05:48.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ocupo armas
+[25Jul2025 06:05:56.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> estoy escuchando estatica wtf
+[25Jul2025 06:06:19.982] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=35, y=-20, z=402} (Chunk: [2, 25]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:06:24.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> donde encuentro el concreto we
+[25Jul2025 06:06:32.981] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=41, y=-20, z=396} (Chunk: [2, 24]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:06:39.480] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=37, y=-20, z=360} (Chunk: [2, 22]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:06:57.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 06:06:57.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 06:07:22.940] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=-107, y=47, z=521} (Chunk: [-7, 32]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:07:35.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya no me queda piedra
+[25Jul2025 06:07:39.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no me acuerdo
+[25Jul2025 06:07:43.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ash
+[25Jul2025 06:08:01.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 06:08:01.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> se hace con arena y grava
+[25Jul2025 06:08:08.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> y el tinte del color q quieras
+[25Jul2025 06:08:19.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no me sale crafteo we
+[25Jul2025 06:08:23.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> es el hormigon en plvo lo mojas y c hace concreto
+[25Jul2025 06:08:41.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> es la arena de colores q esta cerca del concreto
+[25Jul2025 06:09:36.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> si podras traerme la roca o no
+[25Jul2025 06:09:37.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> cual es el hormigon en polbo
+[25Jul2025 06:09:48.078] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=-107, y=47, z=521} (Chunk: [-7, 32]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:09:51.359] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=407, y=69, z=1707}
+[25Jul2025 06:10:38.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> PIEDRA SI O NO ALV
+[25Jul2025 06:10:43.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ese me sale con nombre de concreto en polvo xd
+[25Jul2025 06:10:47.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> en eso estoy puñetin
+[25Jul2025 06:10:53.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> vale
+[25Jul2025 06:11:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ocupo armas para defenderme de los putos
+[25Jul2025 06:11:05.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> soldados
+[25Jul2025 06:11:10.826] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=-12, y=13, z=450} (Chunk: [-1, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:11:10.876] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=-7, y=-5, z=446} (Chunk: [-1, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:11:16.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> trae arena o cristal fragmentado tambien porfa pa ventanas
+[25Jul2025 06:11:52.038] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=41, y=-20, z=396} (Chunk: [2, 24]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:11:54.330] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=35, y=-20, z=402} (Chunk: [2, 25]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:11:57.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 06:11:57.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 06:11:59.281] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=71, y=13, z=424} (Chunk: [4, 26]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:12:03.779] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=71, y=13, z=449} (Chunk: [4, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:13:08.775] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=71, y=13, z=449} (Chunk: [4, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:13:50.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> tienes cobre?
+[25Jul2025 06:14:03.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> 1 noma XD
+[25Jul2025 06:14:19.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> toco buscar
+[25Jul2025 06:14:20.577] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:14:23.973] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=34, y=13, z=452} (Chunk: [2, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:14:26.526] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=27, y=5, z=452} (Chunk: [1, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:14:30.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> esta enverguiza
