@@ -22,8 +22,10 @@
       "minecraft:dripstone_caves": "2025-07-24 09:24:46 +0000",
       "minecraft:forest": "2025-07-24 09:20:47 +0000",
       "minecraft:ocean": "2025-07-24 07:18:17 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-25 00:29:18 +0000",
       "minecraft:flower_forest": "2025-07-24 22:57:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-24 22:47:22 +0000",
+      "minecraft:savanna": "2025-07-25 00:24:10 +0000",
       "minecraft:plains": "2025-07-24 08:28:08 +0000"
     },
     "done": false
@@ -48,6 +50,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-07-25 00:44:03 +0000",
       "scrubland": "2025-07-24 08:29:13 +0000",
       "highland": "2025-07-24 22:37:21 +0000",
       "jacaranda_glade": "2025-07-24 08:59:03 +0000",
@@ -155,6 +158,42 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-07-24 22:25:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-07-24 23:53:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-07-25 01:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-25 01:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-07-25 01:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-25 01:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-25 01:58:16 +0000"
     },
     "done": true
   },
