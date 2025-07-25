@@ -7961,3 +7961,59 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jul2025 03:51:44.758] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
 [25Jul2025 03:51:50.458] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
 [25Jul2025 03:52:01.556] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=360, y=149, z=2139}
+[25Jul2025 03:52:36.259] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:52:56.458] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:53:02.007] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:53:02.008] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:53:32.461] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:53:36.407] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:53:38.858] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:53:39.409] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:53:44.859] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:53:44.859] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:53:51.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:53:56.059] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:54:35.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:54:35.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:54:55.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:55:02.959] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:55:51.556] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:55:53.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:55:55.008] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:55:55.008] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:56:08.857] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:56:09.357] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:56:13.407] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:56:13.407] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:56:13.459] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:56:44.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 03:56:44.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 03:56:54.559] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:57:00.958] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:57:01.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:57:01.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:57:06.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> zzzz
+[25Jul2025 03:57:27.709] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:57:29.109] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:58:09.408] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:58:21.657] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:58:31.407] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:58:32.607] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:58:35.207] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:58:35.508] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:59:00.757] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:59:17.707] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:59:17.708] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:59:37.308] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:59:37.308] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:59:37.309] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 03:59:37.309] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 04:00:39.557] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=314, y=116, z=2267}
+[25Jul2025 04:01:09.608] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 04:01:25.507] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 04:01:25.507] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 04:01:44.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 04:01:44.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 04:01:54.959] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 04:01:54.960] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 04:01:54.960] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
