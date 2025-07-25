@@ -4165,3 +4165,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jul2025 04:04:15.202] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [70, 137], pos: BlockPos{x=1123, y=23, z=2194}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
 [25Jul2025 04:04:15.202] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [70, 137], pos: BlockPos{x=1123, y=23, z=2194}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bunker_down:farm_bunker]
 [25Jul2025 04:05:48.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a
+[25Jul2025 04:16:05.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> zzz
+[25Jul2025 04:19:45.270] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=854, y=32, z=2243} (Chunk: [53, 140]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 04:19:45.535] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=854, y=32, z=2243} (Chunk: [53, 140]) in dimension minecraft:overworld by player TerroncitoTroll
