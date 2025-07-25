@@ -107,6 +107,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "quark:forgotten": "2025-07-25 08:07:45 +0000",
       "minecraft:zombie": "2025-07-24 08:34:08 +0000",
       "minecraft:zombie_villager": "2025-07-25 01:26:45 +0000"
     },
@@ -272,6 +273,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-25 05:18:09 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-07-25 08:07:56 +0000"
     },
     "done": true
   },
