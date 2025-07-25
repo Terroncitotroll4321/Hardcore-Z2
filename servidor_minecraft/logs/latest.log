@@ -6545,3 +6545,57 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jul2025 06:34:49.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
 [25Jul2025 06:34:57.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> vete a la tuerca
 [25Jul2025 06:35:06.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> con cubetasos de lava entonces
+[25Jul2025 06:35:38.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya esta amaneciendo
+[25Jul2025 06:35:41.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> cm se llama el mod de locura
+[25Jul2025 06:35:41.536] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=42, y=-20, z=490} (Chunk: [2, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:35:48.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> sanity
+[25Jul2025 06:36:08.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no me sale en el jei
+[25Jul2025 06:36:24.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pq q buscas
+[25Jul2025 06:36:32.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> para ver q puedo craftear o asi
+[25Jul2025 06:36:36.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> estoy hasta la verga
+[25Jul2025 06:36:47.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[25Jul2025 06:37:34.574] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=42, y=-20, z=490} (Chunk: [2, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:38:05.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Rotting Stalker
+[25Jul2025 06:38:07.491] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 06:38:07.492] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 06:38:07.680] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[25Jul2025 06:38:07.680] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[25Jul2025 06:38:09.477] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:38:18.376] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=42, y=-20, z=490} (Chunk: [2, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:38:24.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> verga
+[25Jul2025 06:38:25.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> regrese y nomas veo como moriste
+[25Jul2025 06:38:30.877] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=34, y=13, z=452} (Chunk: [2, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:38:34.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> como trago y escupo
+[25Jul2025 06:38:34.731] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:38:40.580] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=71, y=13, z=449} (Chunk: [4, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:38:57.481] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=485} (Chunk: [3, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:38:57.481] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-7, z=494} (Chunk: [3, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:39:29.525] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=42, y=-20, z=490} (Chunk: [2, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:39:48.678] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=42, y=-20, z=490} (Chunk: [2, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:39:58.724] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=42, y=-20, z=490} (Chunk: [2, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:40:19.326] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=42, y=-20, z=490} (Chunk: [2, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:40:46.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> lo q faltaba
+[25Jul2025 06:40:49.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q fue
+[25Jul2025 06:40:56.435] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=42, y=-20, z=490} (Chunk: [2, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:40:58.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> lluvia
+[25Jul2025 06:41:01.183] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=42, y=-20, z=490} (Chunk: [2, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:41:03.078] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=42, y=-20, z=490} (Chunk: [2, 30]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:41:28.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> weather clear
+[25Jul2025 06:41:41.228] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=34, y=13, z=452} (Chunk: [2, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:42:42.675] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:42:43.876] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:43:02.031] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:43:04.474] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=71, y=13, z=449} (Chunk: [4, 28]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:43:05.676] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:43:26.175] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:43:29.429] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:43:46.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> aywey
+[25Jul2025 06:43:53.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q
+[25Jul2025 06:44:00.130] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:44:04.175] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:44:12.774] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:44:22.074] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:44:25.778] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:45:11.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> deaseame suerte
+[25Jul2025 06:45:11.633] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=56, y=-20, z=439} (Chunk: [3, 27]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 06:45:16.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> suerte
