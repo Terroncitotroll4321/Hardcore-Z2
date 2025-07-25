@@ -6138,3 +6138,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jul2025 05:23:07.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> esa madre tienee un vergo de vida
 [25Jul2025 05:23:12.008] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=387, y=65, z=1707}
 [25Jul2025 05:23:45.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q fue eso
+[25Jul2025 05:23:54.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ay wey
+[25Jul2025 05:23:59.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> hero eres tu
+[25Jul2025 05:24:00.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> me cai por error
+[25Jul2025 05:24:03.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> AAA
+[25Jul2025 05:24:06.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no lo vi
+[25Jul2025 05:24:51.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ese wey
+[25Jul2025 05:25:19.087] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[25Jul2025 05:25:19.087] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[25Jul2025 05:25:19.864] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:25:20.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:25:20.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:25:20.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:25:20.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:25:24.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no se ve nada
+[25Jul2025 05:25:45.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> hubieras dejado el logro para depues
+[25Jul2025 05:25:46.181] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[25Jul2025 05:25:46.181] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[25Jul2025 05:25:55.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> el logro no lo saque
+[25Jul2025 05:26:03.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> eso lo sauqe ayer
+[25Jul2025 05:26:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> e
+[25Jul2025 05:26:11.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> optm
+[25Jul2025 05:26:16.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> otra vez ando loquita
+[25Jul2025 05:26:27.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya me di cuenta
+[25Jul2025 05:28:22.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ire por hojas para armadura de hojas
+[25Jul2025 05:28:33.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> vale
+[25Jul2025 05:29:21.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:29:51.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> zzz
+[25Jul2025 05:30:09.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:30:09.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:31:03.946] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=518, y=-3, z=1195} (Chunk: [32, 74]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 05:31:47.760] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:31:47.760] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:31:48.739] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=607, y=-42, z=1132} (Chunk: [37, 70]) in dimension minecraft:overworld by player TerroncitoTroll
+[25Jul2025 05:32:07.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[25Jul2025 05:32:30.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> puedo quitar las camas vea?
+[25Jul2025 05:32:33.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> si
+[25Jul2025 05:32:38.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> igual ya dormi alv
+[25Jul2025 05:32:45.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a si cierto xd
