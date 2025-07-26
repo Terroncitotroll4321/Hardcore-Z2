@@ -15,6 +15,7 @@
     "criteria": {
       "woodland": "2025-07-24 22:48:17 +0000",
       "shrubland": "2025-07-26 06:15:04 +0000",
+      "rocky_shrubland": "2025-07-26 08:44:47 +0000",
       "scrubland": "2025-07-24 22:08:13 +0000",
       "bayou": "2025-07-25 02:58:46 +0000",
       "floodplain": "2025-07-24 22:58:29 +0000",
@@ -54,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-07-26 08:35:52 +0000",
       "minecraft:deep_ocean": "2025-07-25 01:10:03 +0000",
       "minecraft:sunflower_plains": "2025-07-24 22:07:05 +0000",
       "minecraft:birch_forest": "2025-07-26 06:17:01 +0000",
@@ -71,6 +73,7 @@
       "minecraft:cold_ocean": "2025-07-26 06:18:25 +0000",
       "minecraft:forest": "2025-07-24 22:53:42 +0000",
       "minecraft:deep_cold_ocean": "2025-07-26 06:33:51 +0000",
+      "minecraft:ice_spikes": "2025-07-26 08:46:15 +0000",
       "minecraft:frozen_ocean": "2025-07-26 06:21:21 +0000",
       "minecraft:desert": "2025-07-26 05:47:43 +0000",
       "minecraft:ocean": "2025-07-24 08:05:58 +0000",
@@ -347,6 +350,12 @@
       "has_killer_queen": "2025-07-26 07:09:46 +0000"
     },
     "done": false
+  },
+  "jcraft:obtain_meteorite_iron_ore": {
+    "criteria": {
+      "has_ore": "2025-07-26 08:46:33 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
