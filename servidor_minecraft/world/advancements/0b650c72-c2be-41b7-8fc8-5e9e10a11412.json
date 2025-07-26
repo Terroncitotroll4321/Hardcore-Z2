@@ -14,6 +14,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-07-24 22:48:17 +0000",
+      "shrubland": "2025-07-26 06:15:04 +0000",
       "scrubland": "2025-07-24 22:08:13 +0000",
       "bayou": "2025-07-25 02:58:46 +0000",
       "floodplain": "2025-07-24 22:58:29 +0000",
@@ -21,17 +22,27 @@
       "jacaranda_glade": "2025-07-24 08:12:03 +0000",
       "marsh": "2025-07-25 01:28:58 +0000",
       "old_growth_woodland": "2025-07-24 08:59:46 +0000",
+      "maple_woods": "2025-07-26 07:01:38 +0000",
       "crystalline_chasm": "2025-07-24 09:32:17 +0000",
       "orchard": "2025-07-24 08:45:44 +0000",
+      "field": "2025-07-26 07:01:42 +0000",
+      "overgrown_greens": "2025-07-26 07:02:04 +0000",
       "mediterranean_forest": "2025-07-25 02:57:59 +0000",
+      "dryland": "2025-07-26 02:13:53 +0000",
+      "wasteland": "2025-07-26 02:09:30 +0000",
+      "lush_desert": "2025-07-26 02:10:39 +0000",
       "redwood_forest": "2025-07-24 08:41:29 +0000",
       "dune_beach": "2025-07-24 08:08:14 +0000",
+      "seasonal_forest": "2025-07-26 07:00:13 +0000",
       "pasture": "2025-07-24 22:08:24 +0000",
       "rocky_rainforest": "2025-07-24 22:59:00 +0000",
       "volcanic_plains": "2025-07-24 23:42:22 +0000",
       "lavender_field": "2025-07-24 08:05:54 +0000",
       "prairie": "2025-07-24 08:14:55 +0000",
-      "rainforest": "2025-07-24 22:58:03 +0000"
+      "gravel_beach": "2025-07-26 07:01:16 +0000",
+      "undergrowth": "2025-07-25 23:07:09 +0000",
+      "rainforest": "2025-07-24 22:58:03 +0000",
+      "crag": "2025-07-26 04:18:52 +0000"
     },
     "done": false
   },
@@ -45,19 +56,29 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-07-25 01:10:03 +0000",
       "minecraft:sunflower_plains": "2025-07-24 22:07:05 +0000",
+      "minecraft:birch_forest": "2025-07-26 06:17:01 +0000",
       "minecraft:windswept_hills": "2025-07-25 01:46:26 +0000",
       "minecraft:savanna_plateau": "2025-07-24 22:25:52 +0000",
       "minecraft:beach": "2025-07-24 08:59:53 +0000",
       "minecraft:stony_peaks": "2025-07-24 22:24:20 +0000",
+      "minecraft:dark_forest": "2025-07-26 06:13:23 +0000",
       "minecraft:sparse_jungle": "2025-07-24 23:06:33 +0000",
       "minecraft:river": "2025-07-24 08:12:01 +0000",
       "minecraft:lukewarm_ocean": "2025-07-24 23:00:42 +0000",
       "minecraft:stony_shore": "2025-07-24 22:05:18 +0000",
+      "minecraft:snowy_plains": "2025-07-26 06:21:40 +0000",
       "minecraft:swamp": "2025-07-25 01:58:41 +0000",
+      "minecraft:cold_ocean": "2025-07-26 06:18:25 +0000",
       "minecraft:forest": "2025-07-24 22:53:42 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-26 06:33:51 +0000",
+      "minecraft:frozen_ocean": "2025-07-26 06:21:21 +0000",
+      "minecraft:desert": "2025-07-26 05:47:43 +0000",
       "minecraft:ocean": "2025-07-24 08:05:58 +0000",
+      "minecraft:jungle": "2025-07-26 07:41:46 +0000",
+      "minecraft:warm_ocean": "2025-07-26 02:06:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-24 23:01:41 +0000",
       "minecraft:flower_forest": "2025-07-24 22:06:41 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-26 07:39:43 +0000",
       "minecraft:savanna": "2025-07-24 22:08:09 +0000",
       "minecraft:plains": "2025-07-24 09:02:20 +0000"
     },
@@ -107,8 +128,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-26 00:22:56 +0000",
+      "minecraft:ghast": "2025-07-25 23:26:24 +0000",
       "quark:forgotten": "2025-07-25 08:07:45 +0000",
+      "minecraft:zombified_piglin": "2025-07-25 22:50:07 +0000",
       "minecraft:zombie": "2025-07-24 08:34:08 +0000",
+      "quark:foxhound": "2025-07-25 23:08:59 +0000",
       "minecraft:zombie_villager": "2025-07-25 01:26:45 +0000"
     },
     "done": false
@@ -121,6 +146,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-25 21:57:31 +0000",
       "cooked_mutton": "2025-07-24 23:01:24 +0000",
       "cooked_beef": "2025-07-25 06:42:24 +0000",
       "baked_potato": "2025-07-25 00:44:34 +0000",
@@ -146,6 +172,8 @@
   },
   "endofherobrine:story/exorcist": {
     "criteria": {
+      "endofherobrine:chicken": "2025-07-26 00:29:24 +0000",
+      "endofherobrine:silverfish": "2025-07-26 04:37:04 +0000",
       "endofherobrine:cow": "2025-07-24 08:37:11 +0000"
     },
     "done": false
@@ -206,7 +234,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-07-24 09:32:02 +0000"
+      "minecraft:crimson_forest": "2025-07-25 23:25:58 +0000",
+      "minecraft:nether_wastes": "2025-07-24 09:32:02 +0000",
+      "minecraft:soul_sand_valley": "2025-07-25 23:30:46 +0000"
     },
     "done": false
   },
@@ -281,6 +311,42 @@
       "get_forgotten_hat": "2025-07-25 08:07:56 +0000"
     },
     "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-25 22:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-26 00:23:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-07-26 03:58:52 +0000"
+    },
+    "done": true
+  },
+  "man_of_many_planes:misc/expanded_aircraftery": {
+    "criteria": {
+      "has_item": "2025-07-26 03:58:52 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand": {
+    "criteria": {
+      "has_stand": "2025-07-26 07:09:46 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_all_stands": {
+    "criteria": {
+      "has_killer_queen": "2025-07-26 07:09:46 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
