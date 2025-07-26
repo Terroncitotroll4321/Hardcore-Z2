@@ -244,5 +244,19 @@
     },
     "done": true
   },
+  "jcraft:obtain_stand": {
+    "criteria": {
+      "has_stand": "2025-07-26 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_all_stands": {
+    "criteria": {
+      "has_the_sun": "2025-07-26 08:55:44 +0000",
+      "has_cream": "2025-07-26 08:54:04 +0000",
+      "has_hierophant_green": "2025-07-26 08:57:25 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
