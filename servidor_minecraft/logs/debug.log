@@ -6979,3 +6979,63 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jul2025 22:59:25.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no veo mobs
 [26Jul2025 22:59:37.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> algo no molaba
 [26Jul2025 22:59:53.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> luna negra
+[26Jul2025 23:00:03.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ./time set luna blanca racista
+[26Jul2025 23:00:17.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> zzzz
+[26Jul2025 23:00:22.948] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 78
+[26Jul2025 23:00:23.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[26Jul2025 23:00:29.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 23:00:29.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 23:00:32.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> alv zombie cm 130 de vida
+[26Jul2025 23:00:41.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[26Jul2025 23:01:28.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> tan rapido me slaieron los nuevos zombies
+[26Jul2025 23:01:47.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> entonces los unicos "utiles" es star platinum y the world?
+[26Jul2025 23:01:58.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pq dices
+[26Jul2025 23:02:14.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pq los demas no hacen ni daño a las moscas
+[26Jul2025 23:02:23.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> cm no we
+[26Jul2025 23:02:38.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> te habia tocado uno roto pero lo cambiaste por el yerofanto verde
+[26Jul2025 23:02:44.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no pos me voy a buscar el cielo
+[26Jul2025 23:02:57.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[26Jul2025 23:03:01.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> la neta me kague a mi mismo
+[26Jul2025 23:03:14.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> nmms
+[26Jul2025 23:03:23.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> puto cerdo zombie
+[26Jul2025 23:03:25.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12585ms or 251 ticks behind
+[26Jul2025 23:03:27.429] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=980, y=-51, z=1661} (Chunk: [61, 103]) in dimension minecraft:overworld by player KekinX
+[26Jul2025 23:03:41.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> nmms
+[26Jul2025 23:03:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Teleported TerroncitoTroll to KekinX]
+[26Jul2025 23:03:48.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8048ms or 160 ticks behind
+[26Jul2025 23:03:59.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[26Jul2025 23:04:03.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Teleported TerroncitoTroll to KekinX]
+[26Jul2025 23:04:06.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pto
+[26Jul2025 23:04:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Teleported TerroncitoTroll to KekinX]
+[26Jul2025 23:04:41.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> alv
+[26Jul2025 23:04:51.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Teleported TerroncitoTroll to KekinX]
+[26Jul2025 23:05:06.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ptmadre
+[26Jul2025 23:05:26.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KekinX) moved wrongly! 0.2616633679069764
+[26Jul2025 23:05:27.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KekinX) moved wrongly! 0.3014599536147671
+[26Jul2025 23:05:27.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KekinX) moved wrongly! 0.6017876778614664
+[26Jul2025 23:05:27.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KekinX) moved wrongly! 0.2879908311674626
+[26Jul2025 23:05:27.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KekinX) moved wrongly! 0.6126779855337645
+[26Jul2025 23:05:27.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KekinX) moved wrongly! 0.27428539904281024
+[26Jul2025 23:05:27.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KekinX) moved wrongly! 0.612710889751952
+[26Jul2025 23:05:27.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KekinX) moved wrongly! 0.27076673033730003
+[26Jul2025 23:05:35.299] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=1167, y=32, z=1587} (Chunk: [72, 99]) in dimension minecraft:overworld by player TerroncitoTroll
+[26Jul2025 23:05:52.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 23:05:52.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 23:06:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> we
+[26Jul2025 23:06:27.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> hay un zombie sculk
+[26Jul2025 23:06:31.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q te mata rapidisi,o
+[26Jul2025 23:06:41.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> eres un pendejo
+[26Jul2025 23:08:32.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[26Jul2025 23:08:50.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> la unica forma de combatir a mis demonios internos es con un rifle de asalto
+[26Jul2025 23:09:03.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[26Jul2025 23:09:08.412] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 92
+[26Jul2025 23:09:42.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[26Jul2025 23:09:51.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> lo amte xcdxd
+[26Jul2025 23:09:52.483] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=1628, y=3, z=1529} (Chunk: [101, 95]) in dimension minecraft:overworld by player KekinX
+[26Jul2025 23:09:52.484] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=1618, y=-4, z=1530} (Chunk: [101, 95]) in dimension minecraft:overworld by player KekinX
+[26Jul2025 23:09:54.425] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=1632, y=-2, z=1524} (Chunk: [102, 95]) in dimension minecraft:overworld by player KekinX
+[26Jul2025 23:10:01.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[26Jul2025 23:10:05.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q ocsa
+[26Jul2025 23:10:10.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> al demonio interno
+[26Jul2025 23:10:15.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> puta lluvia we
+[26Jul2025 23:10:20.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> y sin plantas
