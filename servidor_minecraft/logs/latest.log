@@ -1374,3 +1374,50 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Jul2025 06:28:16.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
 [27Jul2025 06:28:23.447] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 94
 [27Jul2025 06:28:28.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pq hay zombies
+[27Jul2025 06:28:36.554] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 95
+[27Jul2025 06:28:41.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me bajaron la coord
+[27Jul2025 06:28:52.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> donde hay zombies
+[27Jul2025 06:29:22.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[27Jul2025 06:29:47.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ay wey
+[27Jul2025 06:29:49.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> alco me ataca
+[27Jul2025 06:29:56.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nop
+[27Jul2025 06:30:30.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> donde hay zombies we
+[27Jul2025 06:30:32.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> tengo a cero la cordura q epico
+[27Jul2025 06:30:37.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> escucho pero no se ven
+[27Jul2025 06:31:16.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> yo vs los demonios
+[27Jul2025 06:31:41.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> salte
+[27Jul2025 06:31:43.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> oara mimir
+[27Jul2025 06:31:44.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX lost connection: Disconnected
+[27Jul2025 06:31:44.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX left the game
+[27Jul2025 06:31:44.201] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82696d49-acbf-46fc-9653-93cc5b790916 was unloaded
+[27Jul2025 06:32:00.226] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KekinX is 82696d49-acbf-46fc-9653-93cc5b790916
+[27Jul2025 06:32:02.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KekinX[/127.157.10.86:39773] logged in with entity id 980877 at (400.7735866282297, 66.0, 1672.6630897290468)
+[27Jul2025 06:32:02.632] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player KekinX
+[27Jul2025 06:32:02.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX joined the game
+[27Jul2025 06:32:02.929] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82696d49-acbf-46fc-9653-93cc5b790916 was loaded
+[27Jul2025 06:32:02.929] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [KekinX]
+[27Jul2025 06:32:02.929] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [KekinX]
+[27Jul2025 06:32:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> las plantas le intentan dar a a lgo
+[27Jul2025 06:32:12.537] [Server thread/INFO] [Scaling Health/]: Blight Glow Fish has died
+[27Jul2025 06:32:16.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> esta en el vote
+[27Jul2025 06:32:59.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> asi farmeare hojas
+[27Jul2025 06:33:06.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> aa
+[27Jul2025 06:33:09.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> medieron una hoja
+[27Jul2025 06:33:17.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ten
+[27Jul2025 06:33:22.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> perfecto
+[27Jul2025 06:33:31.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> LEAVE ALONE
+[27Jul2025 06:33:33.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dondevergas estas
+[27Jul2025 06:33:50.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a ya
+[27Jul2025 06:34:18.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> apenas unos botes
+[27Jul2025 06:34:34.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> apenas
+[27Jul2025 06:34:51.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> esccucho un llanto
+[27Jul2025 06:34:57.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> yo nop
+[27Jul2025 06:35:19.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> Xd
+[27Jul2025 06:37:29.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> tu tambien tienes efectos op?
+[27Jul2025 06:37:33.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> nop
+[27Jul2025 06:37:37.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> era lo q te decia
+[27Jul2025 06:37:41.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ns pq pasa
+[27Jul2025 06:37:54.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> sera por la esquiso?
+[27Jul2025 06:37:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> na
+[27Jul2025 06:38:38.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> putas plantas
+[27Jul2025 06:38:40.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me empujaron
