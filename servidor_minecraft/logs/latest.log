@@ -2840,3 +2840,20 @@ java.lang.Exception: null
 [27Jul2025 01:09:36.775] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0b650c72-c2be-41b7-8fc8-5e9e10a11412 was unloaded
 [27Jul2025 01:09:36.823] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [27Jul2025 01:10:18.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> UFF
+[27Jul2025 01:11:23.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX was kicked for floating too long!
+[27Jul2025 01:11:23.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX lost connection: Disconnected
+[27Jul2025 01:11:23.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX left the game
+[27Jul2025 01:11:23.224] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82696d49-acbf-46fc-9653-93cc5b790916 was unloaded
+[27Jul2025 01:11:23.255] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jul2025 01:11:32.178] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KekinX is 82696d49-acbf-46fc-9653-93cc5b790916
+[27Jul2025 01:11:34.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KekinX[/127.157.10.86:35505] logged in with entity id 1310827 at (402.34757703541044, 65.54003824114507, 1661.921052738941)
+[27Jul2025 01:11:34.568] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player KekinX
+[27Jul2025 01:11:34.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX joined the game
+[27Jul2025 01:11:34.732] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82696d49-acbf-46fc-9653-93cc5b790916 was loaded
+[27Jul2025 01:11:34.732] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [KekinX]
+[27Jul2025 01:11:34.732] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [KekinX]
+[27Jul2025 01:14:43.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX moved wrongly!
+[27Jul2025 01:17:21.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Summoned new Zombie]
+[27Jul2025 01:17:33.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Summoned new Zombie]
+[27Jul2025 01:18:56.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX moved wrongly!
+[27Jul2025 01:19:22.705] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=394, y=65, z=1685}
