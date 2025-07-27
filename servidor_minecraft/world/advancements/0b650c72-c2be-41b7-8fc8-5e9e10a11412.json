@@ -381,5 +381,11 @@
     },
     "done": true
   },
+  "endofherobrine:story/battle": {
+    "criteria": {
+      "endofherobrine:herobrine": "2025-07-27 08:41:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
