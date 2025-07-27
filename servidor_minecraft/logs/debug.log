@@ -7286,3 +7286,43 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Jul2025 05:27:03.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> A MI NO PENDEJAS
 [27Jul2025 05:27:04.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
 [27Jul2025 05:27:12.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> plantas estupidas
+[27Jul2025 05:28:11.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 05:28:11.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 05:28:38.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> hey tus clones dieron hojas
+[27Jul2025 05:28:43.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pon otro
+[27Jul2025 05:28:59.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerCloneEntity['TerroncitoTroll'/431521, l='ServerLevel[world]', x=395.63, y=66.63, z=1685.54] died: TerroncitoTroll was shot by Cabbage Pult
+[27Jul2025 05:29:09.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya tenemos pa farmear
+[27Jul2025 05:29:11.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no se supone q el taco era para q no nos hicieran daño
+[27Jul2025 05:29:20.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> por eso ya no me comi otro
+[27Jul2025 05:29:36.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerCloneEntity['TerroncitoTroll'/437197, l='ServerLevel[world]', x=408.61, y=66.30, z=1684.59] died: TerroncitoTroll was shot by Cabbage Pult
+[27Jul2025 05:29:42.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> como q tiene una duracion o talvez fue por el cambio de repositorio
+[27Jul2025 05:30:00.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> donde estan
+[27Jul2025 05:30:04.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q
+[27Jul2025 05:30:11.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> los tacos
+[27Jul2025 05:30:22.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya me los chingue pero es facil de hacer
+[27Jul2025 05:30:26.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 05:30:28.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> un sol y un pollo asado
+[27Jul2025 05:31:10.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> el stan me da locura alv
+[27Jul2025 05:31:24.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ns q sea pero da
+[27Jul2025 05:31:35.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a ti te da estar cerca de mi
+[27Jul2025 05:31:40.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> smn
+[27Jul2025 05:31:40.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> y a mi me da cuando uso el stand
+[27Jul2025 05:32:19.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> cada vez mas jodida la base we
+[27Jul2025 05:32:26.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> vamos a organizar
+[27Jul2025 05:32:30.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> por las raids
+[27Jul2025 05:32:39.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> hacia nosotros mismos
+[27Jul2025 05:33:11.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 05:33:11.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 05:34:15.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no te pasa q ves blanco y negro pero tiens la cordura bn
+[27Jul2025 05:34:21.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nop
+[27Jul2025 05:35:49.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> hay que traernos animales we
+[27Jul2025 05:36:05.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> smn
+[27Jul2025 05:36:12.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> del bunker
+[27Jul2025 05:36:45.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of jcraft:meteorite_1
+[27Jul2025 05:36:56.605] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[27Jul2025 05:36:56.606] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[27Jul2025 05:37:00.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a pos el carry on si cierto
+[27Jul2025 05:37:09.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> si
+[27Jul2025 05:37:09.898] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[27Jul2025 05:37:09.898] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[27Jul2025 05:37:38.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dia 118 alv
