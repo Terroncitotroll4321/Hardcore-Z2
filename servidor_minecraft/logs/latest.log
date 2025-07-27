@@ -2857,3 +2857,49 @@ java.lang.Exception: null
 [27Jul2025 01:17:33.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Summoned new Zombie]
 [27Jul2025 01:18:56.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX moved wrongly!
 [27Jul2025 01:19:22.705] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=394, y=65, z=1685}
+[27Jul2025 01:24:46.101] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TerroncitoTroll is 0b650c72-c2be-41b7-8fc8-5e9e10a11412
+[27Jul2025 01:24:48.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TerroncitoTroll[/127.35.132.95:60217] logged in with entity id 1423819 at (405.23599540796994, 67.0, 1694.5053344441571)
+[27Jul2025 01:24:48.501] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player TerroncitoTroll
+[27Jul2025 01:24:48.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll joined the game
+[27Jul2025 01:24:48.827] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0b650c72-c2be-41b7-8fc8-5e9e10a11412 was loaded
+[27Jul2025 01:24:48.828] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[27Jul2025 01:24:48.828] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[27Jul2025 01:24:57.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ye se milagro que no ha tronado we
+[27Jul2025 01:25:06.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> y mi avion grrr
+[27Jul2025 01:25:18.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[27Jul2025 01:25:19.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pendejo
+[27Jul2025 01:25:23.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX moved wrongly!
+[27Jul2025 01:25:26.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved wrongly!
+[27Jul2025 01:25:49.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> los zombies
+[27Jul2025 01:25:59.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ponla de nuevo
+[27Jul2025 01:26:02.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ganan las plantas
+[27Jul2025 01:26:04.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> mira y aprende
+[27Jul2025 01:26:13.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ponlo
+[27Jul2025 01:26:21.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> te vi q lo agarraste puto
+[27Jul2025 01:26:37.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> tengo las hitbox
+[27Jul2025 01:26:38.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX moved wrongly!
+[27Jul2025 01:27:20.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved wrongly!
+[27Jul2025 01:27:40.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Summoned new Zombie]
+[27Jul2025 01:27:42.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> un vergo de exp
+[27Jul2025 01:28:00.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> tan bien mensos los zombies
+[27Jul2025 01:28:06.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pq
+[27Jul2025 01:28:14.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> rompio los bloques
+[27Jul2025 01:28:30.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> we etan escalando
+[27Jul2025 01:28:31.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 01:28:36.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> es culo
+[27Jul2025 01:29:20.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX was kicked for floating too long!
+[27Jul2025 01:29:20.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX lost connection: Flying is not enabled on this server
+[27Jul2025 01:29:20.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX left the game
+[27Jul2025 01:29:20.595] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82696d49-acbf-46fc-9653-93cc5b790916 was unloaded
+[27Jul2025 01:29:22.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> wows
+[27Jul2025 01:29:29.978] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KekinX is 82696d49-acbf-46fc-9653-93cc5b790916
+[27Jul2025 01:29:32.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KekinX[/127.157.10.86:54719] logged in with entity id 1464020 at (403.5155308636595, 72.55651440461854, 1646.5714057532048)
+[27Jul2025 01:29:32.341] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player KekinX
+[27Jul2025 01:29:32.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX joined the game
+[27Jul2025 01:29:32.559] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82696d49-acbf-46fc-9653-93cc5b790916 was loaded
+[27Jul2025 01:29:32.559] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [KekinX]
+[27Jul2025 01:29:32.559] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [KekinX]
+[27Jul2025 01:29:46.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> es mejor el avion
+[27Jul2025 01:29:58.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nah id fly
+[27Jul2025 01:30:17.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ocupamos essencia de planta
+[27Jul2025 01:30:24.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> tu pico we
