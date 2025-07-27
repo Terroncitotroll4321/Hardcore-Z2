@@ -290,5 +290,11 @@
     },
     "done": true
   },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:chicken": "2025-07-27 04:52:06 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
