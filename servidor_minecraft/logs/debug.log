@@ -18873,3 +18873,213 @@ java.lang.Exception: null
 [27Jul2025 00:49:37.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 00:49:37.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jul2025 00:49:42.553] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[27Jul2025 00:50:02.128] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 77
+[27Jul2025 00:50:03.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:50:03.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:50:04.213] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[27Jul2025 00:50:10.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[27Jul2025 00:50:34.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:50:44.775] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:51:01.034] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:51:05.044] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=6887, y=-48, z=-211} (Chunk: [430, -14]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:51:13.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> hazme psita
+[27Jul2025 00:51:15.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pista*
+[27Jul2025 00:51:45.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me gusta cm se ve el avion
+[27Jul2025 00:51:51.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> se ve muy rustico
+[27Jul2025 00:51:56.084] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:03.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:09.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[27Jul2025 00:52:11.680] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:11.680] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:25.248] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:31.065] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=5845, y=25, z=93} (Chunk: [365, 5]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:52:35.071] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=5779, y=11, z=90} (Chunk: [361, 5]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:52:37.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[27Jul2025 00:52:38.291] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:38.291] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:38.903] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=5738, y=11, z=108} (Chunk: [358, 6]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:52:39.737] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=5733, y=11, z=119} (Chunk: [358, 7]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:52:46.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:48.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:49.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:49.448] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:54.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:54.985] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:56.483] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:56.483] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:52:56.484] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:53:01.692] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:53:05.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[27Jul2025 00:53:05.970] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[27Jul2025 00:53:05.970] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[27Jul2025 00:53:05.970] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[27Jul2025 00:53:05.970] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[27Jul2025 00:53:05.970] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[27Jul2025 00:53:05.970] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[27Jul2025 00:53:05.970] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[27Jul2025 00:53:05.971] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[27Jul2025 00:53:06.098] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[27Jul2025 00:53:06.099] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[27Jul2025 00:53:06.099] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[27Jul2025 00:53:06.099] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[27Jul2025 00:53:06.099] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[27Jul2025 00:53:06.150] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[27Jul2025 00:53:06.150] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[27Jul2025 00:53:06.151] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[27Jul2025 00:53:06.151] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[27Jul2025 00:53:06.170] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[27Jul2025 00:53:06.170] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[27Jul2025 00:53:06.170] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[27Jul2025 00:53:06.170] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[27Jul2025 00:53:06.189] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[27Jul2025 00:53:06.189] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[27Jul2025 00:53:06.189] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[27Jul2025 00:53:06.629] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[27Jul2025 00:53:06.629] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[27Jul2025 00:53:06.629] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[27Jul2025 00:53:06.629] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[27Jul2025 00:53:06.644] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[27Jul2025 00:53:06.644] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[27Jul2025 00:53:06.644] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[27Jul2025 00:53:06.644] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[27Jul2025 00:53:09.280] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:53:09.280] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:53:09.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> traete lava
+[27Jul2025 00:53:13.165] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:53:17.720] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=5246, y=36, z=253} (Chunk: [327, 15]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:53:22.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[27Jul2025 00:54:00.493] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=4662, y=-8, z=385} (Chunk: [291, 24]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:54:07.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[27Jul2025 00:54:10.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> 4k de bloques
+[27Jul2025 00:54:20.708] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=4428, y=-21, z=468} (Chunk: [276, 29]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:54:23.887] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=4378, y=-26, z=475} (Chunk: [273, 29]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:54:27.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -9.682930466377911,0.01132148752520834,2.5827342208066852
+[27Jul2025 00:54:27.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -10.33106125105769,0.013879822278553888,2.753746663673496
+[27Jul2025 00:54:27.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -10.979428788022233,0.016737920602380996,2.9245262316706544
+[27Jul2025 00:54:27.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -11.628014435846126,0.019904780795258148,3.095058272506435
+[27Jul2025 00:54:27.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -12.276798257311384,0.023388275618643206,3.265328375666172
+[27Jul2025 00:54:27.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -12.92576008832566,0.027195149693525877,3.435322692303771
+[27Jul2025 00:54:27.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -13.574879565767333,0.031331009967317414,3.605028024927776
+[27Jul2025 00:54:27.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -14.224135694587858,0.0358002812613023,3.7744316987617594
+[27Jul2025 00:54:27.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -14.873507089763734,0.040606182980809535,3.9435217129437774
+[27Jul2025 00:54:27.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -15.522972266839133,0.0457507352935238,4.11228688066376
+[27Jul2025 00:54:27.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -16.172509465453913,0.051234732135128525,4.280716791858481
+[27Jul2025 00:54:27.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -16.822096616144336,0.057057727189089746,4.448801871470096
+[27Jul2025 00:54:27.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -17.471711855146168,0.06321807195151052,4.616533513696936
+[27Jul2025 00:54:27.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -18.121333114177105,0.06971288862422398,4.783904026288553
+[27Jul2025 00:54:27.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -18.77093831383536,0.07653807864629414,4.950906742310508
+[27Jul2025 00:54:27.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -19.420506180156735,0.08368839648426274,5.117536190326916
+[27Jul2025 00:54:27.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -20.070014976180573,0.0911574078645856,5.283787810633214
+[27Jul2025 00:54:27.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -20.7194440384028,0.09893758799958619,5.449658353482448
+[27Jul2025 00:54:27.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -21.368772673141393,0.10702029505948474,5.615145619485361
+[27Jul2025 00:54:27.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -22.017980234632887,0.1153957878533447,5.780248458508709
+[27Jul2025 00:54:27.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -22.667047357994306,0.12405334128867196,5.9449671153439
+[27Jul2025 00:54:27.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -23.31595453243881,0.13298120639679212,6.109302837681298
+[27Jul2025 00:54:27.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -23.964683484255147,0.14216673441595162,6.273258236589072
+[27Jul2025 00:54:27.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -24.613216459798423,0.15159639365371902,6.436837068951718
+[27Jul2025 00:54:27.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -25.261536638757207,0.16125584896516898,6.600044329924458
+[27Jul2025 00:54:27.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -25.909628040888492,0.1711300106546787,6.762886218765345
+[27Jul2025 00:54:27.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -26.55747553598576,0.18120309475267504,6.925370084449867
+[27Jul2025 00:54:27.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -27.205065392781762,0.19145873462872487,7.087504572511648
+[27Jul2025 00:54:27.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -27.852384301608254,0.20187997699019888,7.249299307386707
+[27Jul2025 00:54:27.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -28.499420071137138,0.21244937621058568,7.410765084766467
+[27Jul2025 00:54:27.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -29.146161712304092,0.2231490730525536,7.571913825694196
+[27Jul2025 00:54:27.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5117ms or 102 ticks behind
+[27Jul2025 00:54:27.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Economy Plane (vehicle of TerroncitoTroll) moved too quickly! -20.757544669708295,0.22490800643090836,5.321254571197926
+[27Jul2025 00:54:44.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Jul2025 00:54:57.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 00:54:57.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 00:55:29.329] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=3548, y=-6, z=714} (Chunk: [221, 44]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:55:35.779] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=3458, y=-16, z=730} (Chunk: [216, 45]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:55:36.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> espera 4k de regreso?
+[27Jul2025 00:55:39.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no gasta mucho combustible
+[27Jul2025 00:55:43.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> tsi
+[27Jul2025 00:55:47.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ahora falta 3
+[27Jul2025 00:55:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> vale
+[27Jul2025 00:55:52.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ash
+[27Jul2025 00:55:55.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> se lagueo el server
+[27Jul2025 00:56:06.671] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=3141, y=-46, z=829} (Chunk: [196, 51]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:56:09.492] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=3093, y=-27, z=820} (Chunk: [193, 51]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:56:21.190] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=2953, y=32, z=866} (Chunk: [184, 54]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:56:39.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:56:39.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:56:39.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:56:41.156] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:56:41.156] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:56:41.157] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:56:41.157] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:56:41.333] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:56:44.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me chingue toda tu exp
+[27Jul2025 00:56:45.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> xd
+[27Jul2025 00:56:49.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:56:52.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no pasa nda
+[27Jul2025 00:56:57.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ns de odnde saque 12
+[27Jul2025 00:57:39.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> de ida y regreso cm 10 carbones nomas
+[27Jul2025 00:57:42.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> si vale la pena
+[27Jul2025 00:57:56.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> vale
+[27Jul2025 00:58:12.082] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=1515, y=-19, z=1307} (Chunk: [94, 81]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:58:20.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> 1k
+[27Jul2025 00:58:44.601] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:58:58.865] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 00:59:33.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> hola
+[27Jul2025 00:59:43.884] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=339, y=-50, z=1702} (Chunk: [21, 106]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 00:59:56.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 00:59:56.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 00:59:58.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved wrongly!
+[27Jul2025 01:00:05.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> yt
+[27Jul2025 01:00:06.907] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=391, y=65, z=1684}
+[27Jul2025 01:00:11.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 01:00:14.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a
+[27Jul2025 01:00:22.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me deje caer nomas
+[27Jul2025 01:00:35.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> felicidades
+[27Jul2025 01:00:52.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> toma
+[27Jul2025 01:02:37.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> otra vez invobaste a hero we
+[27Jul2025 01:02:51.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> y q
+[27Jul2025 01:03:07.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dehalo ir
+[27Jul2025 01:03:10.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no te quiere
+[27Jul2025 01:03:18.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no
+[27Jul2025 01:03:25.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> mordido un perro de mi parte
+[27Jul2025 01:03:38.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> mira we
+[27Jul2025 01:04:00.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> wow
+[27Jul2025 01:04:03.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> cauntas
+[27Jul2025 01:04:17.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> adale a ver q te sale
+[27Jul2025 01:04:18.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no habia visto el metioro
+[27Jul2025 01:04:25.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> caen de vez en caundo o q
+[27Jul2025 01:04:34.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> el top de nuvo xd
+[27Jul2025 01:04:38.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> segun
+[27Jul2025 01:04:47.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 01:04:53.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> me escondi en mi prepucio
+[27Jul2025 01:04:56.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 01:04:56.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 01:04:56.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 01:05:20.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[27Jul2025 01:05:22.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> we
+[27Jul2025 01:05:23.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> AAAAAAAAAAAAAAAA
+[27Jul2025 01:05:24.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> te ,a,aste
+[27Jul2025 01:05:30.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> es el q hace hoyos negros
+[27Jul2025 01:05:37.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 01:05:42.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XDXDXDDXDX\
+[27Jul2025 01:06:31.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> cual me toco we
+[27Jul2025 01:06:47.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> es el el de pucci no?
+[27Jul2025 01:06:54.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no se no vi la parte 6
+[27Jul2025 01:06:57.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> el de los discos?
+[27Jul2025 01:07:07.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> tengo fatiga
+[27Jul2025 01:07:16.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 01:07:54.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> me toco kk
+[27Jul2025 01:08:08.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> lo bueno es q da 3
+[27Jul2025 01:09:00.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ire a cookear
+[27Jul2025 01:09:04.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> vale
+[27Jul2025 01:09:10.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> aprende a pilotar
+[27Jul2025 01:09:11.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> puta
+[27Jul2025 01:09:14.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no
+[27Jul2025 01:09:15.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> esta bn vergas
+[27Jul2025 01:09:21.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ano¿
+[27Jul2025 01:09:21.956] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=385, y=76, z=1700}
+[27Jul2025 01:09:32.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> mas mierda
+[27Jul2025 01:09:36.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll lost connection: Disconnected
+[27Jul2025 01:09:36.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll left the game
+[27Jul2025 01:09:36.775] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0b650c72-c2be-41b7-8fc8-5e9e10a11412 was unloaded
+[27Jul2025 01:09:36.823] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jul2025 01:09:56.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 01:09:56.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 01:10:18.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> UFF
