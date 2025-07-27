@@ -17,8 +17,10 @@
       "minecraft:deep_ocean": "2025-07-24 09:11:24 +0000",
       "minecraft:frozen_river": "2025-07-26 23:56:52 +0000",
       "minecraft:birch_forest": "2025-07-26 23:37:38 +0000",
+      "minecraft:savanna_plateau": "2025-07-27 09:11:34 +0000",
       "minecraft:beach": "2025-07-24 08:21:55 +0000",
       "minecraft:dark_forest": "2025-07-24 22:47:09 +0000",
+      "minecraft:stony_peaks": "2025-07-27 09:11:41 +0000",
       "minecraft:river": "2025-07-24 08:15:10 +0000",
       "minecraft:lukewarm_ocean": "2025-07-24 08:28:52 +0000",
       "minecraft:stony_shore": "2025-07-24 22:53:37 +0000",
@@ -277,7 +279,10 @@
   "jcraft:obtain_all_stands": {
     "criteria": {
       "has_the_sun": "2025-07-26 08:55:44 +0000",
+      "has_the_world_over_heaven": "2025-07-27 09:03:34 +0000",
       "has_cream": "2025-07-26 08:54:04 +0000",
+      "has_shadow_the_world": "2025-07-27 09:03:15 +0000",
+      "has_the_world": "2025-07-27 09:03:32 +0000",
       "has_hierophant_green": "2025-07-26 08:57:25 +0000"
     },
     "done": false
@@ -300,6 +305,33 @@
       "endofherobrine:sheep": "2025-07-27 06:28:12 +0000"
     },
     "done": false
+  },
+  "jcraft:obtain_cosplay": {
+    "criteria": {
+      "has_cosplay": "2025-07-27 09:12:45 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_jotaro_outfit": {
+    "criteria": {
+      "has_jotaro_pants": "2025-07-27 09:12:49 +0000",
+      "has_jotaro_cap": "2025-07-27 09:12:46 +0000",
+      "has_jotaro_boots": "2025-07-27 09:12:48 +0000",
+      "has_jotaro_jacket": "2025-07-27 09:12:45 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_diary_page": {
+    "criteria": {
+      "has_diary_page": "2025-07-27 09:03:32 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_dios_diary": {
+    "criteria": {
+      "has_diary": "2025-07-27 09:03:19 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

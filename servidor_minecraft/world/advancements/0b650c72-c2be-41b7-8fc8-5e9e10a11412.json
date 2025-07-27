@@ -371,7 +371,9 @@
       "has_cream": "2025-07-27 01:06:18 +0000",
       "has_horus": "2025-07-27 05:03:22 +0000",
       "has_d4c": "2025-07-27 05:04:42 +0000",
-      "has_white_snake": "2025-07-27 01:06:23 +0000"
+      "has_white_snake": "2025-07-27 01:06:23 +0000",
+      "has_gold_experience_requiem": "2025-07-27 09:13:22 +0000",
+      "has_star_platinum_the_world": "2025-07-27 09:21:47 +0000"
     },
     "done": false
   },
@@ -381,9 +383,30 @@
     },
     "done": true
   },
+  "jcraft:obtain_cosplay": {
+    "criteria": {
+      "has_cosplay": "2025-07-27 09:12:23 +0000"
+    },
+    "done": true
+  },
   "endofherobrine:story/battle": {
     "criteria": {
       "endofherobrine:herobrine": "2025-07-27 08:41:53 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_giorno_outfit": {
+    "criteria": {
+      "has_giorno_pants": "2025-07-27 09:12:23 +0000",
+      "has_giorno_wig": "2025-07-27 09:12:25 +0000",
+      "has_giorno_boots": "2025-07-27 09:12:24 +0000",
+      "has_giorno_jacket": "2025-07-27 09:12:23 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand_disc": {
+    "criteria": {
+      "has_disc": "2025-07-27 09:13:21 +0000"
     },
     "done": true
   },
