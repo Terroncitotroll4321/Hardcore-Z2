@@ -272,7 +272,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "pumpkin": "2025-07-24 23:29:25 +0000"
+      "wheat": "2025-07-27 07:27:43 +0000",
+      "pumpkin": "2025-07-24 23:29:25 +0000",
+      "carrot": "2025-07-27 07:27:51 +0000"
     },
     "done": false
   },

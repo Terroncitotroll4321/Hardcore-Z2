@@ -7771,3 +7771,120 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Jul2025 07:31:09.898] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=83, y=-32, z=1668} (Chunk: [5, 104]) in dimension minecraft:overworld by player TerroncitoTroll
 [27Jul2025 07:31:10.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [27Jul2025 07:31:13.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved wrongly!
+[27Jul2025 07:31:25.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> nooo
+[27Jul2025 07:31:26.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:31:27.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[27Jul2025 07:31:29.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me violñanç
+[27Jul2025 07:31:36.975] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 86
+[27Jul2025 07:31:45.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 07:31:45.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 07:31:45.205] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
+[27Jul2025 07:31:45.207] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 146
+[27Jul2025 07:31:45.207] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 146
+[27Jul2025 07:31:50.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[27Jul2025 07:31:58.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nah tenemos un chingo de plantas no nos van a vencer
+[27Jul2025 07:32:03.570] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:32:23.753] [Server thread/INFO] [Scaling Health/]: Blight Octus has died
+[27Jul2025 07:32:25.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> casi mamo
+[27Jul2025 07:32:33.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a casi?
+[27Jul2025 07:32:35.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> mame
+[27Jul2025 07:32:41.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ./kill sebastroll
+[27Jul2025 07:32:45.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Teleported TerroncitoTroll to KekinX]
+[27Jul2025 07:32:58.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> la ayuda d dios
+[27Jul2025 07:32:58.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> puse el otro avion
+[27Jul2025 07:33:06.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> y se me olvido q a ese le debo dar carga
+[27Jul2025 07:33:39.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me petate
+[27Jul2025 07:33:40.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dejame
+[27Jul2025 07:33:43.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> es mejor asi
+[27Jul2025 07:33:48.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> suelta el pollo maldito
+[27Jul2025 07:33:49.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Rotting Stalker
+[27Jul2025 07:33:51.194] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Jul2025 07:33:51.195] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Jul2025 07:33:51.342] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[27Jul2025 07:33:51.342] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[27Jul2025 07:33:53.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[27Jul2025 07:34:10.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ocupo taco me muero de hambre
+[27Jul2025 07:34:16.699] [Server thread/INFO] [Scaling Health/]: Blight Glow Fish has died
+[27Jul2025 07:34:17.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> el pollo carajo
+[27Jul2025 07:34:21.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[27Jul2025 07:34:46.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[27Jul2025 07:34:59.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> te chignaste toda la lana?
+[27Jul2025 07:35:03.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> non
+[27Jul2025 07:35:05.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[27Jul2025 07:35:11.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> o creo q si XD
+[27Jul2025 07:35:23.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[27Jul2025 07:35:38.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pinche loco que le pgas al aire
+[27Jul2025 07:35:41.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
+[27Jul2025 07:35:58.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[27Jul2025 07:36:06.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> waht como q 3
+[27Jul2025 07:36:15.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
+[27Jul2025 07:36:18.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> 3 q
+[27Jul2025 07:36:24.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nomas me dieron 3 las putas
+[27Jul2025 07:36:41.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a y no le pegue al aire habia un mosco
+[27Jul2025 07:36:53.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[27Jul2025 07:37:06.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 07:37:06.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 07:37:11.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
+[27Jul2025 07:37:13.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[27Jul2025 07:37:21.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> chao ahora si
+[27Jul2025 07:37:28.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[27Jul2025 07:37:30.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pero es de noche
+[27Jul2025 07:37:40.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me vlae verga
+[27Jul2025 07:37:47.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3774ms or 75 ticks behind
+[27Jul2025 07:37:58.740] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=274, y=-42, z=1551} (Chunk: [17, 96]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 07:38:01.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:01.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:01.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:07.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ash por eso te violan
+[27Jul2025 07:38:11.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9016ms or 180 ticks behind
+[27Jul2025 07:38:18.921] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:18.921] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:23.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> soy un pendejo
+[27Jul2025 07:38:29.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> lo vez
+[27Jul2025 07:38:32.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:32.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:32.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:33.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:33.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:33.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:34.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> tengo el boton de subir con el mismo de bajar velocidad
+[27Jul2025 07:38:36.413] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:37.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11849ms or 236 ticks behind
+[27Jul2025 07:38:39.782] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:39.782] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:40.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:43.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:43.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[27Jul2025 07:38:48.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:48.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:50.289] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:50.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:52.705] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:53.136] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:38:53.136] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:39:00.435] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:39:05.207] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:39:06.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13890ms or 277 ticks behind
+[27Jul2025 07:39:08.229] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:39:11.056] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:39:11.056] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:39:12.409] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:39:17.291] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=260, y=32, z=785} (Chunk: [16, 49]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 07:39:32.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_1
+[27Jul2025 07:39:33.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_2
+[27Jul2025 07:39:34.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12583ms or 251 ticks behind
+[27Jul2025 07:39:37.058] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:40:01.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11795ms or 235 ticks behind
+[27Jul2025 07:40:04.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> este mod es mejor que que querias de dirigibles
+[27Jul2025 07:40:13.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> mimimi
+[27Jul2025 07:40:20.597] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=314, y=-1, z=-33} (Chunk: [19, -3]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 07:40:22.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6844ms or 136 ticks behind
+[27Jul2025 07:40:48.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10651ms or 213 ticks behind
+[27Jul2025 07:41:06.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[27Jul2025 07:41:08.619] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[27Jul2025 07:41:11.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> si como cerebro me subira cordura?
+[27Jul2025 07:41:12.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[27Jul2025 07:41:14.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10917ms or 218 ticks behind
+[27Jul2025 07:41:17.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> simon we
+[27Jul2025 07:41:19.357] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 07:41:21.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> por logica
