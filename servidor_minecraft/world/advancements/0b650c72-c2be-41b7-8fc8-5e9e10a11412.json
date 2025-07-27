@@ -370,6 +370,7 @@
       "has_killer_queen": "2025-07-26 07:09:46 +0000",
       "has_cream": "2025-07-27 01:06:18 +0000",
       "has_horus": "2025-07-27 05:03:22 +0000",
+      "has_king_crimson": "2025-07-27 09:24:59 +0000",
       "has_d4c": "2025-07-27 05:04:42 +0000",
       "has_white_snake": "2025-07-27 01:06:23 +0000",
       "has_gold_experience_requiem": "2025-07-27 09:13:22 +0000",
@@ -383,6 +384,12 @@
     },
     "done": true
   },
+  "jcraft:obtain_any_spec": {
+    "criteria": {
+      "has_spec": "2025-07-27 09:24:52 +0000"
+    },
+    "done": true
+  },
   "jcraft:obtain_cosplay": {
     "criteria": {
       "has_cosplay": "2025-07-27 09:12:23 +0000"
@@ -392,6 +399,18 @@
   "endofherobrine:story/battle": {
     "criteria": {
       "endofherobrine:herobrine": "2025-07-27 08:41:53 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_all_specs": {
+    "criteria": {
+      "has_anubis": "2025-07-27 09:24:52 +0000"
+    },
+    "done": false
+  },
+  "jcraft:obtain_spec_disc": {
+    "criteria": {
+      "has_disc": "2025-07-27 09:24:48 +0000"
     },
     "done": true
   },
