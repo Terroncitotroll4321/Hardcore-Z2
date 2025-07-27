@@ -7553,3 +7553,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Jul2025 06:17:22.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> cm nunca sales
 [27Jul2025 06:17:42.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> papeado
 [27Jul2025 06:18:14.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[27Jul2025 06:18:20.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 06:18:20.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 06:18:22.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerCloneEntity['TerroncitoTroll'/859483, l='ServerLevel[world]', x=408.24, y=62.51, z=1661.00] died: TerroncitoTroll was retired
+[27Jul2025 06:18:59.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> alv si te busco pleito de regreso
+[27Jul2025 06:19:03.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pinchi tortuga
+[27Jul2025 06:19:32.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me dejo loca
+[27Jul2025 06:19:52.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya deja de traer demonios a l acasa
+[27Jul2025 06:21:39.838] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerCloneEntity['TerroncitoTroll'/881869, l='ServerLevel[world]', x=395.30, y=66.00, z=1691.70] died: TerroncitoTroll was shot by Melon Pult
+[27Jul2025 06:21:49.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> alv q mataron?
+[27Jul2025 06:21:53.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a mi clon
+[27Jul2025 06:21:57.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> zawarudo
+[27Jul2025 06:22:24.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[27Jul2025 06:23:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> perdoname bro
+[27Jul2025 06:23:16.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> se me olvida q iba ahcer
+[27Jul2025 06:23:20.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 06:23:20.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 06:23:24.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nembre
+[27Jul2025 06:23:39.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Summoned new Tank Zombie]
+[27Jul2025 06:24:11.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 06:24:18.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no hace daño fisico
+[27Jul2025 06:24:24.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pero si pscologico
+[27Jul2025 06:24:30.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> AAAA eso si
+[27Jul2025 06:24:42.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> estas a 4 cora
+[27Jul2025 06:24:43.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> Xd
+[27Jul2025 06:24:46.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> zi
+[27Jul2025 06:24:54.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[27Jul2025 06:24:59.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> me da risa la hitbox
+[27Jul2025 06:25:06.167] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=391, y=65, z=1709}
+[27Jul2025 06:25:19.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> es mas bajare mi esquizo
+[27Jul2025 06:26:48.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pq escucho zombies
+[27Jul2025 06:27:15.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> we las obejas negras si son las vanillas q huyen vdd_
+[27Jul2025 06:27:25.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> si
+[27Jul2025 06:27:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pero se ponen asi por la locura
+[27Jul2025 06:27:38.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a ya
+[27Jul2025 06:27:41.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> zzz
+[27Jul2025 06:28:10.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> puto
+[27Jul2025 06:28:16.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 06:28:20.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 06:28:20.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 06:28:23.447] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 94
+[27Jul2025 06:28:28.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pq hay zombies
