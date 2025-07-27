@@ -7508,3 +7508,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Jul2025 06:07:22.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> verga
 [27Jul2025 06:07:59.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ola
 [27Jul2025 06:08:01.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> hero
+[27Jul2025 06:08:20.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 06:08:20.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 06:08:33.793] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[27Jul2025 06:10:08.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> escuchaste eso?
+[27Jul2025 06:10:11.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q
+[27Jul2025 06:10:21.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> estcucho rugidos marinos
+[27Jul2025 06:10:23.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> si
+[27Jul2025 06:10:31.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> amos a investigar
+[27Jul2025 06:10:35.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ese we
+[27Jul2025 06:10:38.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> esta llovienmdo
+[27Jul2025 06:10:40.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> mira mortal
+[27Jul2025 06:10:56.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q chafa
+[27Jul2025 06:10:57.006] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
+[27Jul2025 06:10:59.393] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 101
+[27Jul2025 06:11:10.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> como quien dice perro q muerde no ladra
+[27Jul2025 06:11:34.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> zz
+[27Jul2025 06:11:41.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> mi locura
+[27Jul2025 06:12:11.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> apurado
+[27Jul2025 06:12:19.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> GRRRRRRRRRRRRRRRRRRRRR
+[27Jul2025 06:13:03.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ahora si mira mi poder
+[27Jul2025 06:13:12.356] [Server thread/WARN] [cgm/]: literal{TerroncitoTroll}(0b650c72-c2be-41b7-8fc8-5e9e10a11412) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 89
+[27Jul2025 06:13:20.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 06:13:20.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 06:13:22.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 06:13:23.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> con las planteas ve
+[27Jul2025 06:13:52.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> un cartel
+[27Jul2025 06:13:57.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> xd
+[27Jul2025 06:13:58.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ese we
+[27Jul2025 06:14:06.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> es un mensaje de acoso
+[27Jul2025 06:14:26.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> bien merecido
+[27Jul2025 06:14:45.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> wow
+[27Jul2025 06:14:47.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> tienen buena vida
+[27Jul2025 06:14:50.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> entre 40 y 50
+[27Jul2025 06:14:54.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> simon
+[27Jul2025 06:15:01.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> mientras mas tiempo mas maduran
+[27Jul2025 06:15:10.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> y se hacen refuertes
+[27Jul2025 06:16:39.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> si les pegas con el stand los puedes ver
+[27Jul2025 06:16:48.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no solo con el stand we
+[27Jul2025 06:16:50.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> tmb con las armas
+[27Jul2025 06:16:57.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a no sabia
+[27Jul2025 06:17:03.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> esq no usas armas tu noob
+[27Jul2025 06:17:10.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no ocupo
+[27Jul2025 06:17:22.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> cm nunca sales
+[27Jul2025 06:17:42.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> papeado
+[27Jul2025 06:18:14.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
