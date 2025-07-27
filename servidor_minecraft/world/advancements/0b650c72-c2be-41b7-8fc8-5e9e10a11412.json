@@ -13,6 +13,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-07-27 00:42:49 +0000",
       "woodland": "2025-07-24 22:48:17 +0000",
       "shrubland": "2025-07-26 06:15:04 +0000",
       "rocky_shrubland": "2025-07-26 08:44:47 +0000",
@@ -40,6 +41,8 @@
       "volcanic_plains": "2025-07-24 23:42:22 +0000",
       "lavender_field": "2025-07-24 08:05:54 +0000",
       "prairie": "2025-07-24 08:14:55 +0000",
+      "snowy_coniferous_forest": "2025-07-27 00:42:53 +0000",
+      "tundra": "2025-07-27 00:42:35 +0000",
       "gravel_beach": "2025-07-26 07:01:16 +0000",
       "undergrowth": "2025-07-25 23:07:09 +0000",
       "rainforest": "2025-07-24 22:58:03 +0000",
@@ -58,6 +61,7 @@
     "criteria": {
       "minecraft:taiga": "2025-07-26 08:35:52 +0000",
       "minecraft:deep_ocean": "2025-07-25 01:10:03 +0000",
+      "minecraft:frozen_river": "2025-07-27 00:42:26 +0000",
       "minecraft:sunflower_plains": "2025-07-24 22:07:05 +0000",
       "minecraft:birch_forest": "2025-07-26 06:17:01 +0000",
       "minecraft:windswept_hills": "2025-07-25 01:46:26 +0000",
@@ -80,6 +84,8 @@
       "minecraft:deep_frozen_ocean": "2025-07-27 00:33:02 +0000",
       "minecraft:ocean": "2025-07-24 08:05:58 +0000",
       "minecraft:jungle": "2025-07-26 07:41:46 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-27 00:45:04 +0000",
+      "minecraft:snowy_beach": "2025-07-27 00:42:16 +0000",
       "minecraft:warm_ocean": "2025-07-26 02:06:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-24 23:01:41 +0000",
       "minecraft:flower_forest": "2025-07-24 22:06:41 +0000",
