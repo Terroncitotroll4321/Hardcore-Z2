@@ -13491,3 +13491,108 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Jul2025 09:44:49.653] [Server thread/INFO] [net.caitie.roamers.RoamersMod/]: Luca blew up
 [27Jul2025 09:44:49.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RoamerEntity['Luca'/947845, l='ServerLevel[world]', x=-418.56, y=112.00, z=2249.55] died: Luca blew up
 [27Jul2025 09:44:55.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> por puto
+[27Jul2025 09:45:12.416] [Server thread/INFO] [net.caitie.roamers.RoamersMod/]: Noelia was shot by Ice Gatling Pea Shooter
+[27Jul2025 09:45:12.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RoamerEntity['Noelia'/948116, l='ServerLevel[world]', x=-412.17, y=112.18, z=2244.49] died: Noelia was shot by Ice Gatling Pea Shooter
+[27Jul2025 09:45:33.360] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=-401, y=74, z=2236} (Chunk: [-26, 139]) in dimension minecraft:overworld by player KekinX
+[27Jul2025 09:45:57.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Spooky Scary Skeleton]
+[27Jul2025 09:46:04.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ese wey
+[27Jul2025 09:46:11.857] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=-401, y=74, z=2236} (Chunk: [-26, 139]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 09:46:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 09:46:18.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no jala
+[27Jul2025 09:46:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Withering Heights]
+[27Jul2025 09:46:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Withering Heights]
+[27Jul2025 09:46:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 09:46:29.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> onta
+[27Jul2025 09:46:32.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> O NOOOO
+[27Jul2025 09:46:36.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:46:41.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Set spawn point to -413, 114, 2246 [0.0] in minecraft:overworld for KekinX]
+[27Jul2025 09:46:51.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no pasa nd
+[27Jul2025 09:46:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Set KekinX's sanity to 100.0]
+[27Jul2025 09:46:59.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 09:46:59.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 09:47:00.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Set KekinX's sanity to 0.0]
+[27Jul2025 09:47:03.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Set KekinX's sanity to 100.0]
+[27Jul2025 09:47:13.606] [Server thread/DEBUG] [mixin/]: Mixing common.SittingPhaseMixin from cgm.mixins.json into net.minecraft.world.entity.boss.enderdragon.phases.AbstractDragonSittingPhase
+[27Jul2025 09:47:13.607] [Server thread/DEBUG] [mixin/]: cgm.mixins.json:common.SittingPhaseMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[27Jul2025 09:47:13.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Summoned new Ender Dragon]
+[27Jul2025 09:47:20.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:47:20.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:47:20.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:47:24.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[27Jul2025 09:47:25.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 09:47:37.069] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:47:41.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> estan papeando a mis plantas
+[27Jul2025 09:47:53.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> se fue
+[27Jul2025 09:47:54.454] [Server thread/INFO] [com.lucasvm.zombieoverlords.events.SpawnerOverrideEvents/]: Converted spawner to ZOMBIE at BlockPos{x=-398, y=40, z=2241} (Chunk: [-25, 140]) in dimension minecraft:overworld by player TerroncitoTroll
+[27Jul2025 09:48:08.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Summoned new Herobrine]
+[27Jul2025 09:48:21.916] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/912821, l='ServerLevel[world]', x=-533.50, y=121.00, z=2432.13] died, message: 'Farmer was killed'
+[27Jul2025 09:48:21.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/912870, l='ServerLevel[world]', x=-553.57, y=127.00, z=2432.01] died, message: 'Villager was killed'
+[27Jul2025 09:48:21.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/912871, l='ServerLevel[world]', x=-528.13, y=110.00, z=2402.61] died, message: 'Farmer was killed'
+[27Jul2025 09:48:21.919] [Server thread/INFO] [Scaling Health/]: Blight Iron Golem has died
+[27Jul2025 09:48:21.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/912873, l='ServerLevel[world]', x=-488.10, y=75.50, z=2401.70] died, message: 'Villager was killed'
+[27Jul2025 09:48:21.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/912878, l='ServerLevel[world]', x=-493.50, y=86.00, z=2416.51] died, message: 'Villager was killed'
+[27Jul2025 09:48:21.933] [Server thread/INFO] [Scaling Health/]: Blight Ice Gatling Pea Shooter has died
+[27Jul2025 09:48:21.934] [Server thread/INFO] [Scaling Health/]: Blight Ice Gatling Pea Shooter has died
+[27Jul2025 09:48:21.945] [Server thread/INFO] [Scaling Health/]: Blight Explosive Zombie has died
+[27Jul2025 09:48:21.950] [Server thread/INFO] [Scaling Health/]: Blight Farmer Zombie has died
+[27Jul2025 09:48:21.953] [Server thread/INFO] [Scaling Health/]: Blight Doctor Zombie has died
+[27Jul2025 09:48:21.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Killed 642 entities]
+[27Jul2025 09:48:22.876] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED dc3b28ee-744e-4010-890f-366ae58ce19f
+[27Jul2025 09:48:23.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was killed
+[27Jul2025 09:48:23.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was killed
+[27Jul2025 09:48:23.793] [Server thread/INFO] [Scaling Health/]: Blight Farmer Zombie has died
+[27Jul2025 09:48:23.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Killed 459 entities]
+[27Jul2025 09:48:25.589] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Jul2025 09:48:25.590] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Jul2025 09:48:25.654] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Jul2025 09:48:25.654] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Jul2025 09:48:25.701] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[27Jul2025 09:48:25.701] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[27Jul2025 09:48:25.727] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [KekinX]
+[27Jul2025 09:48:25.727] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [KekinX]
+[27Jul2025 09:48:28.772] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:48:29.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q hiciste pendejo
+[27Jul2025 09:48:37.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Teleported TerroncitoTroll to KekinX]
+[27Jul2025 09:48:40.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Killed 63 entities]
+[27Jul2025 09:48:48.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> amos al end we
+[27Jul2025 09:48:51.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pa q pueda respirar la patata
+[27Jul2025 09:48:52.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> y que XD
+[27Jul2025 09:49:04.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:49:23.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> uff
+[27Jul2025 09:49:41.520] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:49:41.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [The End?]
+[27Jul2025 09:49:42.744] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [KekinX]
+[27Jul2025 09:49:42.744] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [KekinX]
+[27Jul2025 09:49:42.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX moved too quickly! 515.5209528052992,-63.0,-2250.1402299958118
+[27Jul2025 09:49:44.196] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[27Jul2025 09:49:44.196] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[27Jul2025 09:49:44.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [The End?]
+[27Jul2025 09:49:44.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[27Jul2025 09:49:44.879] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [TerroncitoTroll]
+[27Jul2025 09:49:44.880] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [TerroncitoTroll]
+[27Jul2025 09:49:45.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved too quickly! 516.5500882386341,-63.40868557630867,-2251.175112466549
+[27Jul2025 09:49:45.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:49:45.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:49:45.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:49:45.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:49:46.020] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:49:48.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> es negrooo
+[27Jul2025 09:49:58.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> nose vnd
+[27Jul2025 09:50:34.966] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:50:38.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:50:38.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:50:38.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:51:04.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:51:04.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:51:04.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:51:04.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:51:06.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q rico
+[27Jul2025 09:51:10.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> voy a 60fps
+[27Jul2025 09:51:30.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> es un milagro
+[27Jul2025 09:52:01.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 09:52:01.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 09:53:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> en iluminao
+[27Jul2025 09:53:48.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[27Jul2025 09:54:10.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity deadland:clicker but it was marked as removed already
+[27Jul2025 09:54:54.830] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Jul2025 09:54:54.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

@@ -396,9 +396,21 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-07-27 09:46:21 +0000"
+    },
+    "done": true
+  },
   "endofherobrine:story/battle": {
     "criteria": {
       "endofherobrine:herobrine": "2025-07-27 08:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-27 09:45:57 +0000"
     },
     "done": true
   },
@@ -407,6 +419,12 @@
       "has_anubis": "2025-07-27 09:24:52 +0000"
     },
     "done": false
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-27 09:49:44 +0000"
+    },
+    "done": true
   },
   "jcraft:obtain_spec_disc": {
     "criteria": {
@@ -420,6 +438,12 @@
       "has_giorno_wig": "2025-07-27 09:12:25 +0000",
       "has_giorno_boots": "2025-07-27 09:12:24 +0000",
       "has_giorno_jacket": "2025-07-27 09:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-27 09:49:44 +0000"
     },
     "done": true
   },
