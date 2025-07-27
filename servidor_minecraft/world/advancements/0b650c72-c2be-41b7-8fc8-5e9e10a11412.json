@@ -43,7 +43,8 @@
       "gravel_beach": "2025-07-26 07:01:16 +0000",
       "undergrowth": "2025-07-25 23:07:09 +0000",
       "rainforest": "2025-07-24 22:58:03 +0000",
-      "crag": "2025-07-26 04:18:52 +0000"
+      "crag": "2025-07-26 04:18:52 +0000",
+      "ominous_woods": "2025-07-27 00:32:03 +0000"
     },
     "done": false
   },
@@ -76,6 +77,7 @@
       "minecraft:ice_spikes": "2025-07-26 08:46:15 +0000",
       "minecraft:frozen_ocean": "2025-07-26 06:21:21 +0000",
       "minecraft:desert": "2025-07-26 05:47:43 +0000",
+      "minecraft:deep_frozen_ocean": "2025-07-27 00:33:02 +0000",
       "minecraft:ocean": "2025-07-24 08:05:58 +0000",
       "minecraft:jungle": "2025-07-26 07:41:46 +0000",
       "minecraft:warm_ocean": "2025-07-26 02:06:54 +0000",
